@@ -1,0 +1,15 @@
+{
+  "name": "vtex-scraper",
+  "version": "1.0.0",
+  "description": "VTEX sample scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "mmednik",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.2"
+  }
+}
